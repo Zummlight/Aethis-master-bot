@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = os.getenv('DISCORD_TOKEN') or "MTM3MTg2MDIyMTU5NjY2Mzk5OA.GYVvUP.sV81L9L4D_0d5-v_NHeR7JpCWmqIogJqRCLzzc"
+TOKEN = os.getenv('DISCORD_TOKEN') or "токен"
 TEMP_AUDIO_PATH = "temp_audio"
 SETTINGS_FILE = 'bot_settings.json'
 
