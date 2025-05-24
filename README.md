@@ -116,6 +116,8 @@ bot for discord
 
 Додайте бота на сервер: https://discord.com/oauth2/authorize?client_id=1371860221596663998&permissions=8&integration_type=0&scope=bot
 
+У файлі боту в 25 рядку введіть токен.
+
 Щоб запустити бота у cmd пропишіть python aethis.py (перед цим вказавши директорію у cmd)
 
 /help для опису команд.
